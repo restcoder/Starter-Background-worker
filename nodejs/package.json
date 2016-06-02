@@ -1,0 +1,8 @@
+{
+  "name": "starter-background-worker",
+  "dependencies": {
+    "express": "^4.13.3",
+    "pg": "^4.5.5",
+    "redis": "^2.6.0-2"
+  }
+}
