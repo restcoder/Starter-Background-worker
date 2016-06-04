@@ -19,5 +19,6 @@ app.get("/sum", function (req, res, next) {
 
 
 app.listen(process.env.PORT, function () {
+  console.log('Listening on', process.env.PORT);
   console.log('READY');
 });
